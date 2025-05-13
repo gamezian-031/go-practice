@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-    hello := add.Add_int(2, 4)
+    hello := arithmetics.DivFlt(2, 4)
     fmt.Println(hello)
 }
